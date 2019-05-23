@@ -1,0 +1,6 @@
+c:\users\21316871\documents\visual studio 2015\Projects\Cart\Cart\bin\Debug\Cart.exe.config
+c:\users\21316871\documents\visual studio 2015\Projects\Cart\Cart\bin\Debug\Cart.exe
+c:\users\21316871\documents\visual studio 2015\Projects\Cart\Cart\bin\Debug\Cart.pdb
+c:\users\21316871\documents\visual studio 2015\Projects\Cart\Cart\obj\Debug\Cart.csprojResolveAssemblyReference.cache
+c:\users\21316871\documents\visual studio 2015\Projects\Cart\Cart\obj\Debug\Cart.exe
+c:\users\21316871\documents\visual studio 2015\Projects\Cart\Cart\obj\Debug\Cart.pdb
